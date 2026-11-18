@@ -1,0 +1,20 @@
+{"id":"Q01","type":"answerable","question":"丹寨县共有多少位苗族蜡染技艺项目代表性传承人？","gold_answer":"40人","gold_cards":["K003"],"must_any":[["40","四十"]],"note":"K003 原文摘录：全县共有苗族蜡染技艺项目代表性传承人40人"}
+{"id":"Q02","type":"answerable","question":"这40位传承人里，县级传承人有几位？","gold_answer":"36人","gold_cards":["K003"],"must_any":[["36","三十六"]],"note":"K003：国家级1人、省级2人、州级1人、县级36人"}
+{"id":"Q03","type":"answerable","question":"丹寨苗族蜡染的图案可以分为哪两大类？","gold_answer":"几何纹和自然纹两大类","gold_cards":["K002"],"must_any":[["几何纹"],["自然纹"]],"note":"K002 原文摘录：图案可分为“几何纹”样和“自然纹”样两大类"}
+{"id":"Q04","type":"answerable","question":"最具代表性的几何纹叫什么名字？","gold_answer":"涡妥纹","gold_cards":["K002"],"must_any":[["涡妥","窝妥"]],"note":"K002：几何纹比较抽象概括，最具代表性的有“涡妥”纹"}
+{"id":"Q05","type":"answerable","question":"蜡染与哪两种工艺并称为我国古代三大印花工艺？","gold_answer":"扎染和夹缬","gold_cards":["K007"],"must_any":[["扎染"],["夹缬"]],"note":"K007 原文摘录：与扎染、夹缬并称为我国古代三大印花工艺"}
+{"id":"Q06","type":"answerable","question":"丹寨苗族蜡染在哪一年被列入首批国家级非物质文化遗产名录？","gold_answer":"2006年","gold_cards":["K015"],"must_any":[["2006","二〇〇六","二00六"]],"note":"K015：2006年，以排莫为代表的丹寨苗族蜡染被列为第一批国家级非物质文化遗产保护名录"}
+{"id":"Q07","type":"answerable","question":"目前全县正常运营的蜡染手工企业有多少家？","gold_answer":"13家","gold_cards":["K004"],"must_any":[["13","十三"]],"note":"K004 原文摘录：全县正常运营的蜡染手工企业13家"}
+{"id":"Q08","type":"answerable","question":"2021年丹寨蜡染的年销售额突破了多少钱？","gold_answer":"3000万元","gold_cards":["K004"],"must_any":[["3000","三千","3,000"]],"note":"K004：2021年年销售额突破3000万元"}
+{"id":"Q09","type":"answerable","question":"王阿勇是哪一年被选派赴美表演蜡染艺术的？","gold_answer":"1983年","gold_cards":["K009"],"must_any":[["1983"]],"note":"K009 原文摘录：1983年被选派赴美表演蜡染艺术"}
+{"id":"Q10","type":"answerable","question":"哪一个村寨被称为中国蜡染艺术的发祥地之一？","gold_answer":"排莫","gold_cards":["K012"],"must_any":[["排莫"]],"note":"K012 原文摘录：排莫的蜡染是丹寨县蜡染艺术的典型代表，是中国蜡染艺术的发祥地之一"}
+{"id":"Q11","type":"answerable","question":"蝴蝶纹样在苗族文化中代表什么？","gold_answer":"万物始祖的神圣图腾","gold_cards":["K030"],"must_any":[["万物始祖"]],"note":"K030 原文摘录：蝴蝶纹样，就是代表了万物始祖的神圣图腾"}
+{"id":"Q12","type":"answerable","question":"目前丹寨县已培育形成多少家苗族蜡染工坊？","gold_answer":"17家","gold_cards":["K056"],"must_any":[["17","十七"]],"note":"K056 原文摘录：目前丹寨县已培育形成17家苗族蜡染工坊"}
+{"id":"Q13","type":"unanswerable","question":"蜂蜡的熔点是多少摄氏度？","gold_answer":"资料库中没有记载","gold_cards":[],"must_any":[],"note":"【已验证】熔点/摄氏度/温度在102张卡片中命中0次","refusal_expected":true}
+{"id":"Q14","type":"unanswerable","question":"蓝靛染液的pH值需要控制在多少？","gold_answer":"资料库中没有记载","gold_cards":[],"must_any":[],"note":"【已验证】pH/酸碱在102张卡片中命中0次","refusal_expected":true}
+{"id":"Q15","type":"unanswerable","question":"丹寨苗族蜡染2026年的出口创汇额是多少美元？","gold_answer":"资料库中没有记载","gold_cards":[],"must_any":[],"note":"【已验证】出口/创汇/美元在102张卡片中命中0次","refusal_expected":true}
+{"id":"Q16","type":"unanswerable","question":"丹寨县蜡染画娘的平均年龄是多少岁？","gold_answer":"资料库中没有记载","gold_cards":[],"must_any":[],"note":"【已验证】平均年龄在102张卡片中命中0次","refusal_expected":true}
+{"id":"Q17","type":"confusable","question":"“涡妥”纹属于几何纹还是自然纹？","gold_answer":"属于几何纹","gold_cards":["K002"],"must_any":[["几何纹"]],"note":"易混：卡片明确把涡妥列为几何纹的代表，但同段又说几何纹抽象，容易被答成自然纹","refusal_expected":false}
+{"id":"Q18","type":"confusable","question":"排莫和基加，哪一个被称为中国蜡染艺术的发祥地之一？","gold_answer":"排莫","gold_cards":["K012","K023"],"must_any":[["排莫"]],"note":"易混：排莫是“发祥地之一”(K012)，基加是“主要传承地”(K023)，两张卡片表述接近","refusal_expected":false}
+{"id":"Q19","type":"confusable","question":"丹寨苗族蜡染被列入国家级非遗，是第几批？","gold_answer":"第一批（2006年）","gold_cards":["K015","K044"],"must_any":[["第一批","首批"]],"note":"易混：库中另有“第九批县级传承人名单”(K044)，容易被混成第九批","refusal_expected":false}
+{"id":"Q20","type":"confusable","question":"蜡染作品《百苗图》被哪个机构收藏？","gold_answer":"中国民族博物馆","gold_cards":["K037"],"must_any":[["中国民族博物馆"]],"note":"易混：库中另有“北京民族文化宫”(K084/K085)是展览地点，不是收藏机构","refusal_expected":false}
